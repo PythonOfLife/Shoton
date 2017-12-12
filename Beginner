@@ -1,0 +1,8 @@
+Print ("Welcome")
+Code raw_input("what is your code?")
+If true:
+Return ("accepted")
+Elif
+("Accepted welcome to your favorite games/hobbies")
+Else
+("Sorry")
